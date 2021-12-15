@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZMS_CL_SERVICE_DELIVERIES</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Service Class: Deliveries</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMS_CL_SERVICE_DELIVERIES</CLSNAME>
+     <CMPNAME>GET_DELIVERIES_DETAILS_01</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get deliveries details (by range)</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
